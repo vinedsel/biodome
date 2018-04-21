@@ -1,0 +1,19 @@
+{
+  "name": "biodome",
+  "version": "1.0.0",
+  "description": "An exercise using node's debugger tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinedsel/biodome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinedsel/biodome/issues"
+  },
+  "homepage": "https://github.com/vinedsel/biodome#readme"
+}
