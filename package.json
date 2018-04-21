@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vinedsel/biodome#readme",
   "dependencies": {
-    "node": "^9.11.0"
+    "node": "^9.11.0",
+    "v8-profiler": "^5.7.0"
   }
 }
