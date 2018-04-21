@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinedsel/biodome/issues"
   },
-  "homepage": "https://github.com/vinedsel/biodome#readme"
+  "homepage": "https://github.com/vinedsel/biodome#readme",
+  "dependencies": {
+    "node": "^9.11.0"
+  }
 }
